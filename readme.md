@@ -8,5 +8,5 @@
 <h2> Reach me at:</h2>
 <a href="mailto:gregoire.ansard@gmail.com">gregoire.ansard@gmail.com</a>
 <h2>My skill set</h2>
-<img src="![Logo Nest (1)](https://github.com/iamgrg/iamgrg/assets/80717523/dacf6a2b-619f-436a-abfa-0f7dc2d29882)" width="70" height="70">
+<img src="https://github.com/iamgrg/iamgrg/assets/80717523/dacf6a2b-619f-436a-abfa-0f7dc2d29882" width="70" height="70">
 </div>
