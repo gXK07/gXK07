@@ -1,7 +1,7 @@
 ![DALL·E Pixel Art June 4](https://github.com/iamgrg/iamgrg/assets/80717523/5e729be4-2429-461e-ab20-d18515b4a3b0)
-# Hi! I’m Greg
+# Hey ! I’m Greg ![Waving hand JoyPixels](https://github.com/iamgrg/iamgrg/assets/80717523/c4571d4c-0b94-4b24-805f-9bc01916625c)
 
-**NextJS developer, freshly graduated from the innovative 4️⃣2️⃣ School, ready to bring creative solutions to your web SaaS projects.**
+⚡️ **NextJS developer, freshly graduated from the innovative 4️⃣2️⃣ School, ready to bring creative solutions to your web SaaS projects.**
 
 ## **Looking to enhance your team with a passionate, results-oriented developer?**
 
