@@ -1,5 +1,5 @@
 ![DALL·E Pixel Art June 4](https://github.com/iamgrg/iamgrg/assets/80717523/5e729be4-2429-461e-ab20-d18515b4a3b0)
-# Hey ! I’m Greg ![Design sans titre 40px.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/793b4cb6-08d3-4c22-b434-9fcb50bf5cab/181423fc-dbbd-4a78-912d-0ff706601524/Design_sans_titre_40px.gif)
+# Hey ! I’m Greg ![Design sans titre 40px](https://github.com/iamgrg/iamgrg/assets/80717523/1215344a-25ba-4d75-bed6-74ce8f324854)
 
 ⚡️ **NextJS developer, freshly graduated from the innovative 4️⃣2️⃣ School, ready to bring creative solutions to your web SaaS projects.**
 
