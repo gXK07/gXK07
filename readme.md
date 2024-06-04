@@ -8,8 +8,8 @@
 
 <p style="font-size: 18px;">Ready to bring creative solutions to your web SaaS projects.</p>
 
-<h2>Looking to enhance your team with a passionate, results-oriented developer?</h2>
+<h2> 👀 Looking to enhance your team with a passionate, results-oriented developer? Let's connect ASAP!</h2>
 
-<p>Let's connect ASAP! Reach me at: <a href="mailto:gregoire.ansard@gmail.com">gregoire.ansard@gmail.com</a> and let's make something amazing together.</p>
+<p> Reach me at: <a href="mailto:gregoire.ansard@gmail.com">gregoire.ansard@gmail.com</a></p>
 
 </div>
