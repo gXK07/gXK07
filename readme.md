@@ -12,8 +12,6 @@
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/d5621af5-4c79-4e71-853e-808a9c201c06" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/1a977f2e-ed2b-475c-9361-f4c2c4a563a9" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/1e1a6253-c730-4749-99fb-59eb5d294f57" width="50" height="50">
-<img src="https://github.com/iamgrg/iamgrg/assets/80717523/eced9f68-0763-4c54-9f1a-2b6af44d2183" width="50" height="50">
-<img src="https://github.com/iamgrg/iamgrg/assets/80717523/5c9c32a4-7852-47c5-a118-8e48607f06b7" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/e1169805-bb56-4843-a149-c736f2e4aea7" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/87385fd6-0e72-42d0-925a-077468a8eec8" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/af3556af-ed02-4d13-a02a-bd54c1a8782a" width="50" height="50">
@@ -23,4 +21,6 @@
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/dacf6a2b-619f-436a-abfa-0f7dc2d29882" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/f6e1fe94-3254-4074-a07d-b4e01f6eefee" width="50" height="50">
 <img src="https://github.com/iamgrg/iamgrg/assets/80717523/5a54bf11-0252-40b9-93a0-ae17ab19326e" width="50" height="50">
+<img src="https://github.com/iamgrg/iamgrg/assets/80717523/eced9f68-0763-4c54-9f1a-2b6af44d2183" width="50" height="50">
+<img src="https://github.com/iamgrg/iamgrg/assets/80717523/5c9c32a4-7852-47c5-a118-8e48607f06b7" width="50" height="50">
 </div>
